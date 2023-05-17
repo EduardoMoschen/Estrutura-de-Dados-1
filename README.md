@@ -13,7 +13,7 @@ A execução dos códigos consiste em compilar e executar o objeto gerado. Para 
 No Linux: <code>make all</code>
 
 <br/>
-No Windows: 
+No Windows:
 <code><br/>
 gcc -c lista.c main.c <br/>
 gcc -o lista lista.o main.o 
